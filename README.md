@@ -5,8 +5,8 @@ Utilizing Python Visualization libraries
 - Matplotlib
     - Pandas 
     - Seaborn 
-- Ployly
+- Plotly
     - Plotly Express 
-    - Dash with Ployly Express 
+    - Dash with Plotly Express 
 - Bokeh 
 - Altair 
