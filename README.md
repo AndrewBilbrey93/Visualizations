@@ -9,4 +9,3 @@ Utilizing Python Visualization libraries
     - Plotly Express 
     - Dash with Plotly Express 
 - Bokeh 
-- Altair 
